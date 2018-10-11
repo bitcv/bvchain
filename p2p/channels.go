@@ -1,0 +1,14 @@
+package p2p
+
+const (
+	PEX_CHANNEL byte = 0x00
+
+	VOTE_CHANNEL = 0x10
+
+	TRX_CHANNEL = 0x20
+
+	BLOCK_CHANNEL = 0x30
+
+	DATA_CHANNEL = 0x40
+)
+
